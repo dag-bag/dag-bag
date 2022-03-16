@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dag-bag
 - 👀 I’m interested in Digital Markeing & Web Development.
 - 🌱 I’m currently learning Digital Markeing & Web Development.
-- 💞️ I’m looking to collaborate on Web Development projects & help them to create a brand experince Using my digital markeing sills.
+- 💞️ I’m looking to collaborate on Web Development projects & help them to create a brand experince Using my digital markeing skills.
 - 📫 How to reach me Emial: virenderkumar23435@gmail.com, PhNumber:+91 8766203976
 
 <!---
